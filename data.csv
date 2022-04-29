@@ -1,0 +1,41 @@
+order_no,supplier,order_desc,order_line_no,order_line_desc,qty,order_created_at,payment_term_code,payment_term_desc,order_status,order_line_delivered
+543,Feednation,Jeromy Alphege,26220,Lamb Rack Frenched Australian,7,12/3/2021,90d,Quarter,delivered,TRUE
+543,Feednation,Jeromy Alphege,3053,Chocolate - Chips Compound,60,12/3/2021,90d,Quarter,delivered,TRUE
+543,Feednation,Jeromy Alphege,76362,Island Oasis - Cappucino Mix,9,12/3/2021,90d,Quarter,delivered,TRUE
+543,Feednation,Jeromy Alphege,87286,Towel - Roll White,50,12/3/2021,90d,Quarter,delivered,TRUE
+543,Feednation,Jeromy Alphege,36891,Wine - Prosecco Valdobiaddene,900,12/3/2021,90d,Quarter,delivered,TRUE
+19,Mynte,Pate Surby,32470,Vinegar - Raspberry,1,12/12/2021,60d,Two months,waiting_products,FALSE
+19,Mynte,Pate Surby,99780,Juice - Ocean Spray Kiwi,3,9/2/2021,60d,Two months,waiting_products,FALSE
+19,Mynte,Pate Surby,82227,Soup - Base Broth Chix,200,1/17/2021,60d,Two months,waiting_products,FALSE
+19,Mynte,Pate Surby,87156,"Wine - Cahors Ac 2000, Clos",80,2/9/2021,60d,Two months,waiting_products,FALSE
+19,Mynte,Pate Surby,38779,"Wine - White, Ej",6,11/8/2021,60d,Two months,waiting_products,FALSE
+19,Mynte,Pate Surby,97722,Danishes - Mini Cheese,40,2/1/2021,60d,Two months,waiting_products,FALSE
+19,Mynte,Pate Surby,13692,Star Fruit,1,6/29/2021,60d,Two months,waiting_products,TRUE
+236,Trudoo,Cordy Duggan,8608,Wine - Clavet Saint Emilion,7,8/5/2021,30d,One month,delivered,TRUE
+236,Trudoo,Cordy Duggan,49507,Capicola - Hot,3,8/5/2021,30d,One month,delivered,TRUE
+236,Trudoo,Cordy Duggan,99644,Beer - Creemore,9,8/5/2021,30d,One month,delivered,TRUE
+236,Trudoo,Cordy Duggan,98736,Beef - Top Butt,90,8/5/2021,30d,One month,delivered,TRUE
+236,Trudoo,Cordy Duggan,52382,Pie Shell - 5,20,8/5/2021,30d,One month,delivered,TRUE
+236,Trudoo,Cordy Duggan,10916,"Juice - Clamato, 341 Ml",70,8/5/2021,30d,One month,delivered,TRUE
+236,Trudoo,Cordy Duggan,10257,Duck - Fat,60,8/5/2021,30d,One month,delivered,TRUE
+236,Trudoo,Cordy Duggan,99999,Appetizer - Crab And Brie,600,8/5/2021,30d,One month,delivered,TRUE
+236,Trudoo,Cordy Duggan,75058,Juice - Lemon,2,8/5/2021,30d,One month,delivered,TRUE
+236,Trudoo,Cordy Duggan,5567,Energy Drink - Redbull 355ml,6,8/5/2021,30d,One month,delivered,TRUE
+605,BlogXS,Zachary Nozzolinii,87968,Raisin - Dark,800,9/29/2021,15d,15 days,delivered,TRUE
+605,BlogXS,Zachary Nozzolinii,8501,Everfresh Products,1000,9/29/2021,15d,15 days,delivered,TRUE
+605,BlogXS,Zachary Nozzolinii,47774,Pastry - Choclate Baked,9,9/29/2021,15d,15 days,delivered,TRUE
+605,BlogXS,Zachary Nozzolinii,16555,Wine - Pinot Noir Stoneleigh,4,9/29/2021,15d,15 days,delivered,TRUE
+605,BlogXS,Zachary Nozzolinii,49946,Huck Towels White,6,9/29/2021,15d,15 days,delivered,TRUE
+605,BlogXS,Zachary Nozzolinii,28869,Water - Spring 1.5lit,100,9/29/2021,15d,15 days,delivered,FALSE
+605,BlogXS,Zachary Nozzolinii,8632,Pepper - Jalapeno,1,9/29/2021,15d,15 days,delivered,TRUE
+605,BlogXS,Zachary Nozzolinii,78132,Wine - Magnotta - Pinot Gris Sr,10,9/29/2021,15d,15 days,delivered,TRUE
+605,BlogXS,Zachary Nozzolinii,8506,Pan Grease,400,9/29/2021,15d,15 days,delivered,TRUE
+605,BlogXS,Zachary Nozzolinii,92111,Garbage Bags - Black,500,9/29/2021,15d,15 days,delivered,TRUE
+361,Omba,Midge Blackey,3079,Calypso - Pineapple Passion,3,5/15/2021,15d,15 days,delivered,TRUE
+361,Omba,Midge Blackey,75911,Corn - Mini,400,5/15/2021,15d,15 days,delivered,FALSE
+361,Omba,Midge Blackey,35284,"Beef - Bones, Marrow",40,5/15/2021,15d,15 days,delivered,TRUE
+361,Omba,Midge Blackey,45060,"Beans - Kidney, Red Dry",8,5/15/2021,15d,15 days,delivered,FALSE
+361,Omba,Midge Blackey,61317,Bar - Granola Trail Mix Fruit Nut,400,5/15/2021,15d,15 days,delivered,FALSE
+361,Omba,Midge Blackey,3889,Pasta - Angel Hair,40,5/15/2021,15d,15 days,delivered,FALSE
+361,Omba,Midge Blackey,42603,Dawn Professionl Pot And Pan,5,5/15/2021,15d,15 days,delivered,FALSE
+361,Omba,Midge Blackey,69153,Yeast Dry - Fleischman,4,5/15/2021,15d,15 days,delivered,FALSE
